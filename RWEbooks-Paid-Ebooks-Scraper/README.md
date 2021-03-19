@@ -2,6 +2,7 @@
 
 
 Developed By Huzaifa Irfan
+
 Developed on : 19 March 2021
 
 ## Video
@@ -23,7 +24,7 @@ There is free fifteen Pages Try and lookup.
 The php based software behind which returns the try pages. return white screen, when opened in new tab or seperatedly.
 The Images can be fetched by the query string of book_id and page_number. which returns white image upon normal request.
 
-So, we developed a software that uses request headers of  the images in the try pages section to get the real pages of the book. and Scrape and download them in folder.
+So, i developed a software that uses request headers of  the images in the try pages section to get the real pages of the book. and Scrape and download them in folder.
 
 
 
