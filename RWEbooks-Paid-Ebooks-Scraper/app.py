@@ -4,13 +4,15 @@ import requests
 
 print("Read and Write Publications Lahore paid Ebooks scraper.")
 
+print("Vulnerability checked by Talha Irfan and Huzaifa Irfan (http://huzaifairfan.com/) on 19 March 2021")
+
 # code = int(input("Enter rwebooks code (written in preview url): "))
 # first_page = int(input("Enter starting page number (default to page 1): ") or "1")
 # last_page = int(input("Enter ending page number (written in product description, or what you want): "))
 
 code=222
 first_page=1
-last_page=5
+last_page=20
 
 main_dir = f"RWEbooks/{code}"
 if not os.path.exists(main_dir):
